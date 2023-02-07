@@ -1,4 +1,4 @@
-package com.espezzialy.cryptocurrency.ui.theme
+package com.espezzialy.cryptocurrency.presentation
 
 import androidx.compose.ui.graphics.Color
 
