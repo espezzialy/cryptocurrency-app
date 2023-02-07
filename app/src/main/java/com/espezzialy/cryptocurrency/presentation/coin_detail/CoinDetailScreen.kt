@@ -24,7 +24,7 @@ import com.espezzialy.cryptocurrency.presentation.coin_list.components.CoinListI
 import com.google.accompanist.flowlayout.FlowRow
 
 @Composable
-fun CoinListScreen(
+fun CoinDetailScreen(
     viewModel: CoinDetailViewModel = hiltViewModel()
 ) {
     val state = viewModel.state.value
